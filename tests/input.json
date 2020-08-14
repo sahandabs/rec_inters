@@ -1,0 +1,7 @@
+{
+	"main": {"x": 3, "y": 2, "width": 4, "height": 4},
+	"input": [
+		 {"x": 2, "y": 1, "width": 3, "height": 4},
+                 {"x": 4, "y": 2, "width": 1, "height": 1}
+		]
+}
