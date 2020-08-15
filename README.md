@@ -1,4 +1,3 @@
-# rec_inters
 # Rectangles intersection:<br/>
 This project is an HTTP server that receives a main rectangle and some input rectangles and then stores input rectangles that have intersect with the main one.<br/>
 You can edit hostname and port number of this server  at **server/main.py**.<br/>
